@@ -1,0 +1,2 @@
+# hyperblogplatzi
+Practica blog platzi
